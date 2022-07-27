@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x52aFfcF57540907b9A80614554403DE61319f8D7",
+  "SCAN_LINK": "https://etherscan.io/address/0x52aFfcF57540907b9A80614554403DE61319f8D7",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Lucky Dollar Metaverse",
+  "SYMBOL": "GDM",
+  "MAX_SUPPLY": 1000000,
+  "WEI_COST": 700000000000000,
+  "DISPLAY_COST": 0.0007,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/monstermoleculeresearchlab",
+  "SHOW_BACKGROUND": true
+}
